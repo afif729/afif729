@@ -1,4 +1,16 @@
+<div align="center">
 
+<img src="ottoman-coat-of-arms.png"
+     width="210"
+     alt="Ottoman Imperial Coat of Arms">
+
+<h1>⚜ AFIF729 ⚜</h1>
+
+<h3>BUILDING THE DIGITAL EMPIRE</h3>
+
+<p><em>Discipline · Craftsmanship · Innovation</em></p>
+
+</div>
 <div align="center">
 
 # ⚜ AFIF729 ⚜
