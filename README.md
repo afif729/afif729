@@ -40,6 +40,23 @@ software engineering, and DevOps.
 - 🧩 Interested in turning real-world problems into useful software.
 - 📚 Continuously learning through hands-on projects.
 
+---
+
+## ⚜ THE IMPERIAL REGISTRY
+
+Welcome to my development portfolio.
+
+I build practical software, explore new technologies,
+and turn ideas into working applications.
+
+### 🏛️ Flagship Project
+
+**TripC — Smart Travel Planner & Expense Manager**
+
+[Explore the repository](https://github.com/afif729/TripC-Smart-Travel-Planner)
+
+---
+
 ## 🏛️ Featured Project
 
 ### 👑 TripC — Smart Travel Planner & Expense Manager
